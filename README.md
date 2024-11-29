@@ -16,7 +16,6 @@ A **Line-Following Robot** is an autonomous system designed to navigate along a 
 4. Servo motors are activated to serve the patient or deliver items.    
 
 ## Technology Used
-
 ## Hardware Components
 - Arduino Uno  
 - L293D Motor Driver  
