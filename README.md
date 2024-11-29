@@ -1,7 +1,7 @@
 # Line Following Robot Using Arduino  
 
 ## Project Overview  
-A **Line-Following Robot** using Arduino is an autonomous system designed to navigate along a marked path using IR sensors. In hospitals, it can assist with tasks like transporting supplies, guiding patients, or delivering items efficiently. The Arduino processes sensor data to control motor direction, ensuring smooth navigation and obstacle avoidance.  
+A **Line-Following Robot** is an autonomous system designed to navigate along a marked path using IR sensors. In hospitals, it can assist with tasks like transporting supplies, guiding patients, or delivering items efficiently. The Arduino processes sensor data to control motor direction, ensuring smooth navigation and obstacle avoidance.  
 
 ## Features  
 - Black line follower for precise navigation.  
