@@ -15,8 +15,10 @@ A **Line-Following Robot** is an autonomous system designed to navigate along a 
 3. Proximity sensors identify obstacles and adjust the robot’s movement.  
 4. Servo motors are activated to serve the patient or deliver items.    
 
-## Technologies Used  
-- **Arduino Microcontroller**: Core control unit.  
-- **IR Sensors**: For line following and request detection.  
-- **Servo Motors**: For patient serving mechanism.  
-- **Motor Drivers**: To control robot movement.  
+## Technologies Used    
+- **Sensors**: IR sensor, IR proximity sensor 
+- **Actuators**: Servo motors  
+- **Control Unit**: Arduino(Microcontroller)
+- **Power Supply**: Rechargeable battery pack
+
+
